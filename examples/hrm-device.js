@@ -1,5 +1,3 @@
-var async = require('async');
-
 var NobleDevice = require('../index');
 
 var idOrLocalName = process.argv[2];
